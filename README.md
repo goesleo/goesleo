@@ -50,7 +50,7 @@ Atualmente, estou construindo projetos práticos para fortalecer minha base téc
 </p>
 
 ---
-<-- ## Projetos em Destaque
+<!-- ## Projetos em Destaque
 
 Aqui estarão meus principais projetos desenvolvidos durante minha jornada de aprendizado e evolução como Desenvolvedor Java Back-end.
 
