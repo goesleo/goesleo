@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Leonardo Goes 👋</h1>
 
 <p align="center">
-  <strong>Estudante de Desenvolvimento de Software | Java Back-end | Em busca da primeira oportunidade na área</strong>
+  <strong>Estudante de Engenharia de Software | Java Back-end | Em busca da primeira oportunidade na área</strong>
 </p>
 
 <p align="center">
