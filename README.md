@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou Leonardo 👋</h1>
+<h1 align="center">Olá, eu sou Leonardo Goes 👋</h1>
 
 <p align="center">
-  <strong>Estudante de Engenharia de Software | Java Back-end | Em busca da primeira oportunidade na área</strong>
+  <strong>Estudante de Desenvolvimento de Software | Java Back-end | Em busca da primeira oportunidade na área</strong>
 </p>
 
 <p align="center">
-  Sou apaixonado por tecnologia, desenvolvimento back-end e construção de soluções bem estruturadas.  
+  Sou apaixonado por tecnologia, desenvolvimento back-end e construção de soluções bem estruturadas.<br>
   Atualmente estudo diariamente com foco em Java, Spring Boot, bancos de dados relacionais e boas práticas de desenvolvimento.
 </p>
 
@@ -41,15 +41,16 @@ Atualmente, estou construindo projetos práticos para fortalecer minha base téc
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=goesleo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goesleo&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=goesleo&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
+
 <!-- ## Projetos em Destaque
 
 Aqui estarão meus principais projetos desenvolvidos durante minha jornada de aprendizado e evolução como Desenvolvedor Java Back-end.
@@ -60,7 +61,8 @@ Aqui estarão meus principais projetos desenvolvidos durante minha jornada de ap
 | Em breve | Sistema para praticar autenticação, regras de negócio e persistência de dados | Java, Spring Boot, SQL |
 | Em breve | Projeto full stack para integração entre front-end e back-end | Angular, Java, Spring Boot |
 
---- -->
+---
+-->
 
 ## Objetivos Atuais
 
@@ -93,7 +95,7 @@ Atualmente estou focado em:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=goesleo&style=for-the-badge&color=0e75b6" />
   <img src="https://img.shields.io/badge/Focus-Java_Back--end-ED8B00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Open_to_Work-2EA44F?style=for-the-badge" />
 </p>
