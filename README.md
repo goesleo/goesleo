@@ -50,8 +50,7 @@ Atualmente, estou construindo projetos práticos para fortalecer minha base téc
 </p>
 
 ---
-
-## Projetos em Destaque
+<-- ## Projetos em Destaque
 
 Aqui estarão meus principais projetos desenvolvidos durante minha jornada de aprendizado e evolução como Desenvolvedor Java Back-end.
 
@@ -61,7 +60,7 @@ Aqui estarão meus principais projetos desenvolvidos durante minha jornada de ap
 | Em breve | Sistema para praticar autenticação, regras de negócio e persistência de dados | Java, Spring Boot, SQL |
 | Em breve | Projeto full stack para integração entre front-end e back-end | Angular, Java, Spring Boot |
 
----
+--- -->
 
 ## Objetivos Atuais
 
